@@ -1,7 +1,7 @@
 **L'Oréal X Monash Datathon 2025: TrendSpotter**
 This repository contains the project submission for the L'Oréal X Monash Datathon 2025 under the "TrendSpotter" theme. The project aims to use machine learning to identify, analyze, and predict emerging trends from social media comment data.
 
-Members of the Datathon:
+Members of the SayYes:
 1. Chan Zheng Shao (Group Leader)
 2. Vicky Leow Ming Fong (Member)
 3. Hong Jing Jay (Member)
