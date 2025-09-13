@@ -27,6 +27,7 @@ bertopic_model_safetensors Folder: BERT modelling files (outputted from modellin
 bertopic_processed_data.parquet: A quick way to fetch database
 
 **Project Setup and Running the Project**
+
 To set up and run this project, follow the steps below:
 
 1. Clone the Repository
@@ -38,6 +39,7 @@ Install the required Python libraries.
 4. Run the Pipeline
 
 **The project can be run by executing the Jupyter Notebooks in the specified order (make sure to download the dataset)**
+
 filter_google.py -> modelling+clustering+temporal.ipynb -> Final Sentiment Analysis.ipynb
 
 **Identified Limitations**
