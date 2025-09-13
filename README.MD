@@ -7,6 +7,7 @@ Members of the SayYes:
 3. Hong Jing Jay (Member)
 
 **Project Files**
+
 comment_cleaned.ipynb: This Jupyter Notebook is used to download the initial CSV file and perform the data cleaning and preprocessing steps using libraries like nltk.
 
 bertopic_model_safetensors: This file contains the pre-trained BERT model used for topic modeling.
@@ -20,6 +21,10 @@ filter_google.py: A Python script that leverages GPU acceleration with cuDF, CuP
 modelling+clustering+temporal.ipynb: This Jupyter Notebook is the core of the analysis pipeline. It is responsible for modeling, clustering, and performing temporal analysis using the data stored in embedded.db.
 
 Final Sentiment Analysis.ipynb: Applies TF-IDF-based topic modeling and VADER sentiment analysis to identify key themes and their associated sentiments, finally visualizing these results through bar charts and word clouds.
+
+bertopic_model_safetensors Folder: BERT modelling files (outputted from modelling+clustering+temporal.ipynb)
+
+bertopic_processed_data.parquet: A quick way to fetch database
 
 **Project Setup and Running the Project**
 To set up and run this project, follow the steps below:
